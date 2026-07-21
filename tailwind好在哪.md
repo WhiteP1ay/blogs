@@ -1,7 +1,7 @@
 ---
 title: tailwind好在哪
 date: 2026-07-14
-type: 前端
+type: [前端]
 slug: why-tailwind
 ---
 

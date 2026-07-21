@@ -1,7 +1,7 @@
 ---
 title: 软件开发变成狗屁职业
 date: 2026-07-21
-type: AI
+type: [AI]
 slug: ai-coding-nihilism
 ---
 

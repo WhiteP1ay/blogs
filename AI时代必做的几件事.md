@@ -1,7 +1,7 @@
 ---
 title: AI时代必做的几件事
 date: 2026-07-14
-type: AI
+type: [AI]
 slug: ai-era-essentials
 ---
 
