@@ -2,6 +2,7 @@
 title: AI时代必做的几件事
 date: 2026-07-14
 type: AI
+slug: ai-era-essentials
 ---
 
 冒着限流风险跟大家聊点干货，AI时代有哪几件事必做。

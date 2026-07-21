@@ -2,6 +2,7 @@
 title: 软件开发变成狗屁职业
 date: 2026-07-21
 type: AI
+slug: ai-coding-nihilism
 ---
 
 软件开发正在从创作性工作变成狗屁工作。

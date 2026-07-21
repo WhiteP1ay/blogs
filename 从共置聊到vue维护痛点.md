@@ -2,6 +2,7 @@
 title: 从共置聊到vue维护痛点
 date: 2026-07-14
 type: 前端
+slug: colocation-vue-pain
 ---
 
 ## 何为共置
